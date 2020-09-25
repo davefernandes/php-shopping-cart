@@ -131,7 +131,7 @@ if( isset($_GET['mode']) && trim($_GET['mode'] === 'remove') ) {
                             <table class="table table-sm table-bordered">
                             <thead>
                                 <tr>
-                                    <th>Product</th>
+                                    <th>Product Name</th>
                                     <th>Price</th>
                                     <th>Quantity</th>
                                     <th>Total</th>
